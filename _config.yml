@@ -1,2 +1,3 @@
 name: Nadya Shakhat, engineer
 official title: software development manager
+permalink: /blog/:year/:month/:day/:title
