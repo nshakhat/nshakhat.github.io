@@ -27,6 +27,7 @@ p, li {
     font-size: 1.3em;
     line-height: 1.1em;
     color: #333;
+    margin:0;
 }
 footer {
     border-top: 1px solid #d5d5d5;
